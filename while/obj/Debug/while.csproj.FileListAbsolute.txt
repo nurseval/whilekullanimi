@@ -1,0 +1,11 @@
+C:\Users\Nur\source\repos\while\bin\Debug\@while.exe.config
+C:\Users\Nur\source\repos\while\bin\Debug\@while.exe
+C:\Users\Nur\source\repos\while\bin\Debug\@while.pdb
+C:\Users\Nur\source\repos\while\obj\Debug\while.csproj.AssemblyReference.cache
+C:\Users\Nur\source\repos\while\obj\Debug\while.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nur\source\repos\while\obj\Debug\while.Form1.resources
+C:\Users\Nur\source\repos\while\obj\Debug\while.Properties.Resources.resources
+C:\Users\Nur\source\repos\while\obj\Debug\while.csproj.GenerateResource.cache
+C:\Users\Nur\source\repos\while\obj\Debug\while.csproj.CoreCompileInputs.cache
+C:\Users\Nur\source\repos\while\obj\Debug\@while.exe
+C:\Users\Nur\source\repos\while\obj\Debug\@while.pdb
